@@ -14,4 +14,7 @@ sudo apt-get install aircrack-ng
 
 pip3 install tkinter && sudo apt-get install python3-pil python3-pil.imagetk && pip install colorama 
 
-ALL IN ONE COMMAND ::::::::::  git clone 
+ALL IN ONE COMMAND ::::::::::  
+
+
+git clone https://github.com/ArkAngeL43/802.11-Lazy.git && cd 802.11-Lazy && sudo apt-get install aircrack-ng && pip3 install tkinter && sudo apt-get install python3-pil python3-pil.imagetk && pip install colorama && clear && python3 GUI2.py 
